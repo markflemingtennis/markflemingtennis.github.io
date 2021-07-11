@@ -1,9 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /about/
----
+permalink: "/about/"
+published: false
 
+---
 Some information about you!
 
 ### More Information
