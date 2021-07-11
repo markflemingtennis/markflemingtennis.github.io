@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 'Quick Tip: In Doubles Communicate Like A Football Quarterback'
-excerpt: "testing 123"
+excerpt: "In doubles players frequently find themselves in one up and one back situation.
+
+When doubles teams are in this formation, and the opponents lob over the net person's head, what are the players' resulting responsibilities?"
 tags: tennis forehand
 
 ---
