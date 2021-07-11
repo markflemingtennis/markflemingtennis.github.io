@@ -2,7 +2,7 @@
 layout: post
 title: 'Quick Tip: In Doubles Communicate Like A Football Quarterback'
 excerpt: "testing 123"
-tags: tennis, forehand
+tags: tennis | forehand
 
 ---
 In doubles players frequently find themselves in one up and one back situation.
