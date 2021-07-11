@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test Post #1
+title: Tennis Post: What You Should Know Now
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
