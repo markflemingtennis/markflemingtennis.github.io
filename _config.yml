@@ -3,22 +3,22 @@ name: Mark Fleming Tennis
 description: Mark Fleming is a USPTA tennis professional in Milwaukee, WI.
 avatar: https://media-exp3.licdn.com/dms/image/C5103AQFu9UZrH6ciMQ/profile-displayphoto-shrink_200_200/0/1516960700036?e=1631145600&v=beta&t=PjRjnNbGn5Qnr8iyLrFz8UE3nsSxE-5VL26sl5Fmn6w
 footer-links:
-  dribbble: 
+  dribbble:
   email: mdfleming3@gmail.com
-  facebook: 
-  flickr: 
-  github: 
-  instagram: 
+  facebook:
+  flickr:
+  github:
+  instagram:
   linkedin: https://www.linkedin.com/in/mark-fleming-ms-uspta-elite-8b118257/
-  pinterest: 
-  rss: 
-  twitter: 
-  stackoverflow: 
-  youtube: 
-  googleplus: 
-disqus: 
-google_analytics: 
-url: 
+  pinterest:
+  rss:
+  twitter:
+  stackoverflow:
+  youtube:
+  googleplus:
+disqus:
+google_analytics:
+url:
 baseurl: ''
 permalink: "/:title/"
 version: v1.2.0
